@@ -1,5 +1,5 @@
 # Assignment: Program 3 (smallsh)
-## Name: Evan Hock ===
+## Name: Evan Hock
 
 ## Compilation
 1. If you have not done so already, unzip hocke_program3.zip and make sure all of its products are in the same directory.
